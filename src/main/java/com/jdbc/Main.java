@@ -17,7 +17,7 @@ public class Main {
             DriverManager.registerDriver(driver);
         }
         catch (SQLException ex){
-            System.out.println("csdcsdfc");
+            System.out.println("Ya xoch kilo");
             return;
 
         }
